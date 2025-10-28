@@ -117,7 +117,7 @@ To demonstrate:
 
 ## Blog Post
 
-Read the full breakdown: [Building a Doctest Checker in Python](<your-blog-link>)
+Read the full breakdown: [Building a Doctest Checker in Python](<https://jdookeran.medium.com/your-docstrings-are-lying-heres-the-100-line-tool-that-catches-it-b3fbf7dcb3c9>)
 
 ## License
 
