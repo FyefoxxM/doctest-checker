@@ -1,0 +1,8 @@
+# No external dependencies required!
+# This project uses only Python standard library:
+# - ast (for parsing Python code)
+# - pathlib (for file operations)
+# - sys (for command-line arguments)
+
+# For development/testing (optional):
+# pytest>=7.0.0
