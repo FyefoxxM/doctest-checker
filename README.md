@@ -15,7 +15,7 @@ Ever written documentation with code examples that broke after you refactored yo
 No installation needed! Just Python 3.6+
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/Fyrefoxxm/doctest-checker.git
 cd doctest-checker
 ```
 
